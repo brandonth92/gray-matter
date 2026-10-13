@@ -1,0 +1,6 @@
+# runtime state — never publish
+state.json
+candidates/
+__pycache__/
+.pytest_cache/
+*.sqlite
